@@ -1,7 +1,7 @@
 # Firebase Auth with React App
 This React project has basic signup, signin functionalities with Firebase.
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
